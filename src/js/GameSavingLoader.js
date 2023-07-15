@@ -8,7 +8,7 @@ export default class GameSavingLoader {
       .then((buffer) => json(buffer))
       .then((str) => {
         const save = JSON.parse(str);
-        return new GameSaving(save.id, save.created, save.userInfo);        
+        return new GameSaving(save.id, save.created, save.userInfo);
       });
   }
 }

@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/enjjwoctn5htjjio?svg=true)](https://ci.appveyor.com/project/GLM-Alyona/promises)
